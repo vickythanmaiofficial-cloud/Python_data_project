@@ -114,7 +114,7 @@ plt.tight_layout
 ```
 
 ### Results
-![Visualization of trending skills for DA](3_Project\3_skiils_trend.png)
+![Visualization of trending skills for DA](3_Project/3_skiils_trend.png)
 
 
 ### Insights
