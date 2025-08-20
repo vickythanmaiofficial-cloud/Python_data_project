@@ -3,7 +3,7 @@
 ## 1. What are the demanded skills for top 3 data roles?
 
 View my notebook with detailed steps here:
-[2_Skills_count.ipynb](3_Project\2_Skills_count.ipynb)
+[2_Skills_count.ipynb](3_Project/2_Skills_count.ipynb)
 
 ### Visualize data
 ```python
@@ -30,7 +30,7 @@ plt.show()
 ```
 
 ### Results
-![Visualization of top demanded skills](3_Project\images.png)
+![Visualization of top demanded skills](3_Project/images.png)
 
 ### Insights
 
@@ -97,7 +97,7 @@ Statistical tools (R, SAS) matter more for Scientists than Analysts or Engineers
 
 ## 2. How are indemand skills trending for Data Analyst Jobs?
 
-View my notebook for detailed steps here: [3_Skills_trend.ipynb](3_Project\3_Skills_trend.ipynb)
+View my notebook for detailed steps here: [3_Skills_trend.ipynb](3_Project/3_Skills_trend.ipynb)
 
 ### Visualize Data
 ```python
@@ -133,7 +133,7 @@ Seasonal trends: SQL and Excel see minor dips in mid-year and a recovery towards
 
 ## 3. How well do different level of jobs pay for data roles?
 
-View my notebook for detailed steps here:[4_Salary_Analysis.ipynb](3_Project\4_Salary_Analysis.ipynb)
+View my notebook for detailed steps here:[4_Salary_Analysis.ipynb](3_Project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 ```python
@@ -150,7 +150,7 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x,pos:f'${int(x/1000)}k'))
 
 ### Results
 
-![Box plot representing salaries](3_Project\4_salary_analysis.png)
+![Box plot representing salaries](3_Project/4_salary_analysis.png)
 
 ### Insights 
 Yet to be posted!!
@@ -189,7 +189,7 @@ plt.legend().set_visible(False)
 
  ## 4. What is the most optimal skill to learn for data analysts?
 
- View my notebook for detailed steps here: [5_Optimal_Skills.ipynb](3_Project\5_Optimal_Skills.ipynb)
+ View my notebook for detailed steps here: [5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)
 
  ### Visualize Data
 
@@ -223,7 +223,7 @@ plt.show()
 
  ### Results
 
-![Scatter plot showing the optimal skills](3_Project\5_Optimal_skill.png)
+![Scatter plot showing the optimal skills](3_Project/5_Optimal_skill.png)
 
 ### Insights
 
